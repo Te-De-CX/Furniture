@@ -9,9 +9,9 @@ const Collections = () => {
             <p className="text-xl" >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
         <div className="flex items-center justify-center" >
         <div className="flex justify-center items-center gap-5 px-5"  >
-            <img src={ Mask1} alt="img1" className="w-10"/>
-            <img src={ Mask2 } alt="img1"  className="w-10"/>
-            <img src={ Mask3 } alt="img1" className="w-10" />
+            <img src={ Mask1} alt="img1" className="w-3/12"/>
+            <img src={ Mask2 } alt="img1"  className="w-3/12"/>
+            <img src={ Mask3 } alt="img1" className="w-3/12" />
         </div>
         </div>
         

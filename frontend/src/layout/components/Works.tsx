@@ -1,3 +1,4 @@
+import Img1 from "../../../public/indoors-5680429_1920.jpg";
 
 const Works = () => {
 
@@ -7,12 +8,30 @@ const Works = () => {
                 <h3>how it works</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
-                <div>
-                    <img src="" alt="" />
-                    <p>1</p>
+                <div className="flex gap-5 px-20" >
                     <div>
-                        <h3>purchase security</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <img src={Img1} alt="" />
+                        <p>1</p>
+                        <div>
+                            <h3>purchase security</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <img src={Img1} alt="" />
+                        <p>1</p>
+                        <div>
+                            <h3>purchase security</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <img src={Img1} alt="" />
+                        <p>1</p>
+                        <div>
+                            <h3>purchase security</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
                     </div>
                 </div>
             </section>

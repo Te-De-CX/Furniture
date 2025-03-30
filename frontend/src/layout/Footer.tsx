@@ -11,7 +11,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <h3>instagram shop</h3>
-                    <div>
+                    <div className="flex gap-5 my-5">
                         <img src="" alt="" />
                     </div>
                 </div>
