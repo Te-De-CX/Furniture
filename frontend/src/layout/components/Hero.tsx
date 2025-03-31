@@ -3,6 +3,8 @@ import { Ri24HoursLine } from "react-icons/ri";
 
 const Hero = () => {
 
+    const name = "Hello World"
+
     const hero = (
         <>
             <section className="bg-[url('./assets/img1.jpg')] h-screen bg-center flex justify-end items-center px-20" >
